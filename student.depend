@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1573024105 source:c:\users\bright\documents\c\student\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	"Student.h"
+
+1572958589 source:c:\users\bright\documents\c\student\src\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1572958278 c:\users\bright\documents\c\student\include\student.h
+
